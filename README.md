@@ -1,5 +1,3 @@
-# Allegro Elevator Simulator
-
 A real-time, Allegro-powered visualization of a single-elevator controller. The simulator replays a scripted set of passenger requests, animates pickup/drop-off, and reports status in real time.
 
 ## Prerequisites
